@@ -74,9 +74,3 @@ function App() {
 }
 
 export default App
-
-// MUIDataTableToolbar
-// MUIDataTableHeadCell
-// MUIDataTableSelectCell
-// MUIDataTableBodyCell
-// MuiTableFooter
